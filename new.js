@@ -1,0 +1,1 @@
+log.console("new 1");
